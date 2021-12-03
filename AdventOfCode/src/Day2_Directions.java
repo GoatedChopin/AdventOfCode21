@@ -72,6 +72,7 @@ public class Day2_Directions {
     }
 
     public static void main(String[] args) {
+        plotCourse1();
         plotCourse2();
     }
 }
